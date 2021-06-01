@@ -1,0 +1,6 @@
+rootProject.name = "practice3"
+include ':IntentApp'
+include ':resultactivity'
+include ':share'
+include ':simplefragmentapp'
+include ':systemintentsapp'
